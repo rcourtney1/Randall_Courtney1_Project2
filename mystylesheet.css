@@ -4,4 +4,7 @@ h1 { color: maroon;
 	p {
      color: blue;
   }
-  
+
+  h2 {
+    float: center;
+  }
