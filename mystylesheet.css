@@ -448,4 +448,13 @@ template {
 /*end reset*/
 
 /*begin css for project 2*/
+body {
+   margin: 0;
+}
 
+#aboutme
+
+.h1 {
+   background color: light orange;
+   postion: fixed;
+}
