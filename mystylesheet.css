@@ -14,7 +14,7 @@ nav ul li {
 }
 nav ul li a {
    display: block;
-   background-color: black;
+   background-color: maroon;
    font-weight: bold;
    text-decoration: none;
    text-align: center;
@@ -23,5 +23,5 @@ nav ul li a {
    border-radius: 4px;
 }
 nav ul li a:hover {
-   background-color: maroon;
+   background-color: black;
 }
