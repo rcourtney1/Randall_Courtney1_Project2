@@ -6,6 +6,16 @@ body {
 #aboutme h1 {
    color: #0000ff;
 }
+ul {
+   list-style-type: none;
+   padding: 0;
+   margin: 0;  
+}
+ul li {
+   float: left;
+   margin:0 20px;
+   font-weight: bold;
+}
 /*end about me*/
 /*begin nav*/
 nav ul {
