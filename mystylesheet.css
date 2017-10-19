@@ -2,8 +2,7 @@
 body {
    margin: 5px;
 }
-section aboutme
-h1 {
+#aboutme h1 {
    color: purple;
 }
 nav ul {
