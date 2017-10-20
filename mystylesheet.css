@@ -6,6 +6,13 @@ body {
 #aboutme h1 {
    color: #0000ff;
 }
+p {
+   font-family: "Georgia", Georgia, serif;
+   font-size: 20px;
+}
+p.oblique {
+   font-style: oblique;
+}
 /*end about me*/
 /*myexperience*/
 #myexperience h1{
@@ -18,8 +25,6 @@ h2 {
    padding: 25px; 
    margin: 25px;  
 }
-/*end my experience*/
-/*paragraph*/
 p {
    font-family: "Georgia", Georgia, serif;
    font-size: 20px;
@@ -27,7 +32,8 @@ p {
 p.oblique {
    font-style: oblique;
 }
-/*end paragraph*/
+/*end my experience*/
+
 /*begin nav*/
 nav ul {
    list-style-type: none;
