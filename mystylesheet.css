@@ -33,7 +33,9 @@ h3 {
 }
 /*end airborne*/
 /*soldier*/
-
+#soldier h2 {
+   color: forest green; 
+}
 /*begin nav*/
 nav ul {
    list-style-type: none;
