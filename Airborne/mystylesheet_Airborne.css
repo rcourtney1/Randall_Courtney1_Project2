@@ -450,9 +450,9 @@ template {
 body {
    margin: 5px;
 /*begin airborne*/
-h1{
+#airborne h1{
 height: 100px;
-width: 75%
+width: 75%;
 }
 p {
 color: #228B22;
