@@ -24,10 +24,11 @@ h2 {
 #airborne h1{
    font-family: "Georgia", Georgia, serif;
    font-size: 100px;
-   color: maroon;
+   border-color: maroon;
 }
 p.italic {
    font-style: italic;
+   font-size: 20px;
 }
 /*end airborne*/
 /*begin nav*/
