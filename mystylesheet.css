@@ -16,10 +16,16 @@ element.style {
    font-weight: bold;
 }
 h2 {
-   width: 500px;
-   border: 25px;
-   padding: 25px; 
-   margin: 25px;  
+   width: 600px;
+   border: 10px;
+   padding: 10px; 
+   margin: 10px; 
+}
+h3 {
+    width: 600px;
+    border: 10px;
+    padding: 10px;
+    margin: 10px;
 }
 /*end my experience*/
 /*begin css for airborne*/
