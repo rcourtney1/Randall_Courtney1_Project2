@@ -23,8 +23,12 @@ h2 {
 /*begin css for airborne*/
 #airborne h1{
    font-family: "Georgia", Georgia, serif;
-   font-size: 60px;
+   font-size: 100px;
 }
+p.oblique {
+   font-style: oblique;
+}
+/*end airborne*/
 /*begin nav*/
 nav ul {
    list-style-type: none;
