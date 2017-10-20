@@ -14,10 +14,10 @@ body {
 }
 h2 {
    color: #8B008B;
-   width: 2;
-   border: 2;
-   padding: 2;
-   margin: 2;  
+   width: 2px;
+   border: 2px;
+   padding: 2px;
+   margin: 2px;  
 }
 
 /*begin nav*/
