@@ -36,6 +36,12 @@ h3 {
 #soldier h2 {
    color: forest green; 
 }
+/*end airborne*/
+/*begin Hobbie and Interest*/
+#harleys img{
+   width: 400px;
+   height: 600px; 
+}
 /*begin nav*/
 nav ul {
    list-style-type: none;
