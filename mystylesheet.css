@@ -6,10 +6,6 @@ body {
 #aboutme h1 {
    color: #0000ff;
 }
-p {
-   font-family: "Georgia", Georgia, serif;
-   font-size: 20px;
-}
 p.oblique {
    font-style: oblique;
 }
@@ -29,8 +25,8 @@ p {
    font-family: "Georgia", Georgia, serif;
    font-size: 20px;
 }
-p.oblique {
-   font-style: oblique;
+p.italic {
+   font-style: italic;
 }
 /*end my experience*/
 
