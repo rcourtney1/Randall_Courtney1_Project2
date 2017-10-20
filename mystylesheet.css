@@ -32,9 +32,8 @@ h3 {
 #airborne h1{
    font-family: "Georgia", Georgia, serif;
    font-size: 100px;
+   font-color: maroon; 
 }
-p {
-   background-color: #00bfff;
 }
 p.italic {
    font-style: italic;
