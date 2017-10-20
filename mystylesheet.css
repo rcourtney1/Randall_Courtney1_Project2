@@ -2,7 +2,7 @@
 body {
    margin: 5px;
 }
-p.italic {
+p {
    font-style: italic;
 }
 /*about me*/
@@ -23,9 +23,7 @@ h2 {
    margin: 25px;  
 }
 /*end my experience*/
-p.italic {
-   font-style: italic;
-}
+
 /*begin nav*/
 nav ul {
    list-style-type: none;
