@@ -1,9 +1,7 @@
 /*begin css for project 2*/
-/*about me*/
-#aboutme h1 {
-   color: #0000ff;
+header {
+   color= darkred;
 }
-/*end about me*/
 /*myexperience*/
 #myexperience h1{
    color: #00BFFF;
