@@ -14,8 +14,8 @@ body {
 }
 h2 {
    color: #8B008B;
-   width: 10px;
-   border: 0px;
+   width: 0px;
+   border: 5px;
    padding: 0px;
    margin: 0px;  
 }
