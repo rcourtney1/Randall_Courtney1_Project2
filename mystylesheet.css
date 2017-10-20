@@ -8,9 +8,6 @@ body {
 }
 /*end about me*/
 /*myexperience*/
-element.style {
-    background-color: #00bfff;
-}
 #myexperience h1{
    color: #00BFFF;
    font-weight: bold;
@@ -34,8 +31,9 @@ h3 {
    font-size: 100px;
    font-color: #8B0000; 
 }
-.p {
+.myyears {
    font-style: italic;
+   color: purple;
 }
 /*end airborne*/
 /*begin nav*/
