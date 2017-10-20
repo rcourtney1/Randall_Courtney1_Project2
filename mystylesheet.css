@@ -33,12 +33,11 @@ h3 {
    font-family: "Georgia", Georgia, serif;
    font-size: 100px;
 }
-element p {
-    background-color: #00bfff;
+p {
+   background-color: #00bfff;
 }
 p.italic {
    font-style: italic;
-   font-size: 20px;
 }
 /*end airborne*/
 /*begin nav*/
