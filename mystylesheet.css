@@ -7,6 +7,20 @@ body {
    color: #0000ff;
 }
 /*end about me*/
+/*myexperience*/
+#myexperience h1{
+   color: #A9A9A9;
+   float: center;
+   font-weight: bold;
+}
+h2 {
+   color: #8B008B;
+   width: 500px;
+   border: 40px;
+   padding: 50px;
+   margin: 25px;  
+}
+
 /*begin nav*/
 nav ul {
    list-style-type: none;
