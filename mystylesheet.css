@@ -13,11 +13,11 @@ body {
    font-weight: bold;
 }
 h2 {
-   color: #8B008B;
-   width: 2px;
-   border: 2px;
-   padding: 2px;
-   margin: 100px;  
+   Background color: #8B008B;
+   width: 200px;
+   border: 25px solid red;
+   padding: 25px; 
+   margin: 10px;  
 }
 
 /*begin nav*/
