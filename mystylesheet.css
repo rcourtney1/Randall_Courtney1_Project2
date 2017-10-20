@@ -14,7 +14,7 @@ body {
 }
 h2 {
    width: 500px;
-   border: 25px solid black;
+   border: 25px;
    padding: 25px; 
    margin: 25px;  
 }
