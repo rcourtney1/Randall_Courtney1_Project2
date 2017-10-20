@@ -470,8 +470,8 @@ h2 {
 /*end my experience*/
 /*airborne*/
 #airborne h1{
-   height: 300;
-   width: 50px
+   height: 300px;
+   width: 50%;
 }
 /*begin nav*/
 nav ul {
