@@ -29,7 +29,7 @@ h3 {
 #airborne h1{
    font-family: "Georgia", Georgia, serif;
    font-size: 100px;
-   font-color: #8B0000; 
+   color: maroon; 
 }
 .myyears {
    font-style: italic;
