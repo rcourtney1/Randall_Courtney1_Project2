@@ -22,9 +22,10 @@ h2 {
 /*paragraph*/
 p {
    font-family: "Georgia", serif;
-   font-style: oblique;
+   font-style: normal;
    font-size: 60px;
 }
+/*end paragraph*/
 /*begin nav*/
 nav ul {
    list-style-type: none;
