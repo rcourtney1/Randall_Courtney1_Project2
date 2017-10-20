@@ -20,10 +20,12 @@ h2 {
 }
 /*end my experience*/
 /*paragraph*/
+p {
+   font-family: "Georgia", Georgia, serif;
+   font-size: 20px;
+}
 p.oblique {
-   font-family: "Georgia", serif;
    font-style: oblique;
-   font-size: 60px;
 }
 /*end paragraph*/
 /*begin nav*/
