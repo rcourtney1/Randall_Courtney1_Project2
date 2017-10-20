@@ -21,12 +21,12 @@ h2 {
    padding: 25px; 
    margin: 25px;  
 }
-}
 p.italic {
    font-style: italic;
 }
 /*end my experience*/
-
+p.italic {
+   font-style: italic;
 /*begin nav*/
 nav ul {
    list-style-type: none;
