@@ -1,7 +1,4 @@
 /*begin css for project 2*/
-body {
-   back-ground: red;
-}
 /*about me*/
 #aboutme h1 {
    color: #0000ff;
@@ -29,7 +26,73 @@ h3 {
 #airborne h1{
    font-family: "Georgia", Georgia, serif;
    font-size: 100px;
-   color: maroon; 
+   /*begin css for project 2*/
+body {
+   margin: 5px;
+}
+/*about me*/
+#aboutme h1 {
+   color: #0000ff;
+}
+/*end about me*/
+/*myexperience*/
+element.style {
+    background-color: #00bfff;
+}
+#myexperience h1{
+   color: #00BFFF;
+   font-weight: bold;
+}
+h2 {
+   width: 600px;
+   border: 10px;
+   padding: 10px; 
+   margin: 10px; 
+}
+h3 {
+    width: 600px;
+    border: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+/*end my experience*/
+/*begin css for airborne*/
+#airborne h1{
+   font-color: maroon;
+   font-family: "Georgia", Georgia, serif;
+   font-size: 100px;
+   font-color: #8B0000; 
+}
+.p {
+   font-style: italic;
+}
+/*end airborne*/
+/*begin nav*/
+nav ul {
+   list-style-type: none;
+   padding: 0;
+   margin: 0;
+   overflow: hidden;   
+}
+nav ul li {
+   float: left;
+   margin: 0 15px
+}
+nav ul li a {
+   display: block;
+   background-color: black;
+   color: #0000;
+   font-weight: bold;
+   text-decoration: none;
+   text-align: center;
+   width: 100px;
+   padding: 10px 0px 8px 0px;
+   border-radius: 4px;
+}
+nav ul li a:hover {
+   background-color: blue;
+}
+/*end nav*/
 }
 .myyears {
    font-style: italic;
