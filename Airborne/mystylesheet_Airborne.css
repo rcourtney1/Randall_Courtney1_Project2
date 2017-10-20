@@ -6,7 +6,9 @@ body {
 height: 600px;
 width: 75%;
 }
-
+   p.italic {
+      font-style: italic;
+   }
 /*end airborne*/
 /*begin nav*/
 nav ul {
