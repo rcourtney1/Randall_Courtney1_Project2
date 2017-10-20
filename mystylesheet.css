@@ -2,6 +2,9 @@
 body {
    margin: 5px;
 }
+p.italic {
+   font-style: italic;
+}
 /*about me*/
 #aboutme h1 {
    color: #0000ff;
@@ -22,6 +25,7 @@ h2 {
 /*end my experience*/
 p.italic {
    font-style: italic;
+}
 /*begin nav*/
 nav ul {
    list-style-type: none;
