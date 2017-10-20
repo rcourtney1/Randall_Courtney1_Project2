@@ -1,6 +1,6 @@
 /*begin css for project 2*/
 body {
-   margin: 5px;
+   back-ground: red;
 }
 /*about me*/
 #aboutme h1 {
@@ -32,7 +32,7 @@ h3 {
 #airborne h1{
    font-family: "Georgia", Georgia, serif;
    font-size: 100px;
-   font-color: maroon; 
+   font-color: #8B0000; 
 }
 .p {
    font-style: italic;
