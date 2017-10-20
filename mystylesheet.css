@@ -21,17 +21,17 @@ h2 {
 }
 /*end my experience*/
 /*begin nav*/
-#navtopages ul {
+nav ul {
    list-style-type: none;
    padding: 0;
    margin: 0;
    overflow: hidden;   
 }
-#navtopages ul li {
+nav ul li {
    float: left;
    margin: 0 15px
 }
-#navtopages ul li a {
+nav ul li a {
    display: block;
    background-color: black;
    color: #0000;
@@ -42,7 +42,7 @@ h2 {
    padding: 10px 0px 8px 0px;
    border-radius: 4px;
 }
-#navtopages ul li a:hover {
+nav ul li a:hover {
    background-color: blue;
 }
 /*end nav*/
