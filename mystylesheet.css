@@ -34,7 +34,7 @@ h3 {
    font-size: 100px;
    font-color: maroon; 
 }
-p.italic {
+.p {
    font-style: italic;
 }
 /*end airborne*/
