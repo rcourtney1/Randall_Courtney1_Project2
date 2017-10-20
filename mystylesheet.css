@@ -13,10 +13,10 @@ body {
    font-weight: bold;
 }
 h2 {
-   width: 200px;
+   width: 500px;
    border: 25px #8B0000;
    padding: 25px; 
-   margin: 10px;  
+   margin: 25px;  
 }
 
 /*begin nav*/
