@@ -42,11 +42,13 @@ img {
    src="http://moto.zombdrive.com/images1600_/harleydavidson-xl1200l-sportster-1200-low-2010-4.jpg": "sportsters"
    width: 650px;
 }
+/*begin footer*/
 footer {
    backgound-ground: crimson;
    width: 1000px;
    height:75px;
 }
+/*end footer/
 /*begin nav*/
 nav ul {
    list-style-type: none;
