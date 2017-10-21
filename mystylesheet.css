@@ -469,12 +469,9 @@ h3 {
     margin: 10px;
 }
 p {
-   -webkit-margin-before: 1em;
-   -webkit-margin-after: 1em;
-   -webkit-margin-start: 50px;
-   -webkit-margin-end: 75px;
+   margin: 25px;
 }
-/*end my experience*/
+   /*end my experience*/
 /*begin css for airborne*/
 #airborne h1{
    font-family: "Georgia", Georgia, serif;
