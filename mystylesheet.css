@@ -22,10 +22,10 @@ h3 {
 }
 p {
   display: block;
-    -webkit-margin-before: 200em;
-    -webkit-margin-after: 30em;
-    -webkit-margin-start: 25px;
-    -webkit-margin-end: 80px; 
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 50px;
+    -webkit-margin-end: 75px; 
 }
 /*end my experience*/
 /*begin css for airborne*/
