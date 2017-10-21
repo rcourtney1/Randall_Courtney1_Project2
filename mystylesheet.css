@@ -2,6 +2,11 @@
 header {
    color: purple;
    background: lightblue;
+   display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 50px;
+    -webkit-margin-end: 75px; 
 }
 /*myexperience*/
 #myexperience h1{
