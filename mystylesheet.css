@@ -21,7 +21,11 @@ h3 {
     margin: 10px;
 }
 p {
-   
+  display: block;
+    -webkit-margin-before: 200em;
+    -webkit-margin-after: 30em;
+    -webkit-margin-start: 25px;
+    -webkit-margin-end: 80px; 
 }
 /*end my experience*/
 /*begin css for airborne*/
