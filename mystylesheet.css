@@ -484,13 +484,16 @@ p {
 }
 /*end airborne*/
 /*soldier*/
-#soldier h2 {
-   color: forest green; 
+#soldier p {
+   color: forest green;
 }
 /*end airborne*/
+
 /*begin Hobbie and Interest*/
+
 #motorcycle h2{
-   font-color: orange;
+   font-family: "fantasy", fantasy, serif;
+   font-size: xlarge;
 }
 /*begin footer*/
 footer {
