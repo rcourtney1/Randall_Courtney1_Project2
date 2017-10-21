@@ -489,9 +489,8 @@ p {
 }
 /*end airborne*/
 /*begin Hobbie and Interest*/
-img {
-   src="http://moto.zombdrive.com/images1600_/harleydavidson-xl1200l-sportster-1200-low-2010-4.jpg": "sportsters"
-   width: 650px;
+#motorcycle h2{
+   font-size: 85px;
 }
 /*begin footer*/
 footer {
