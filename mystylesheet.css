@@ -2,11 +2,6 @@
 header {
    color: purple;
    background: lightblue;
-   display: block;
-    -webkit-margin-before: 1em;
-    -webkit-margin-after: 1em;
-    -webkit-margin-start: 50px;
-    -webkit-margin-end: 75px; 
 }
 /*myexperience*/
 #myexperience h1{
@@ -25,7 +20,13 @@ h3 {
     padding: 10px;
     margin: 10px;
 }
-
+p {
+   display: block;
+   margin-before: 1em;
+   margin-after: 1em;
+   margin-start: 50px;
+   margin-end: 75px;
+}
 /*end my experience*/
 /*begin css for airborne*/
 #airborne h1{
