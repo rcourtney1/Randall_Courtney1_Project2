@@ -43,7 +43,9 @@ img {
    width: 650px;
 }
 footer {
-   backgound: darkgrey;
+   backgound: crimson;
+   width: 1000px;
+   height:75px
 }
 /*begin nav*/
 nav ul {
@@ -54,7 +56,7 @@ nav ul {
 }
 nav ul li {
    float: left;
-   margin: 0 15px
+   margin: 0 70px
 }
 nav ul li a {
    display: block;
