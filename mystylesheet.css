@@ -470,6 +470,9 @@ h3 {
 }
 p {
    margin: 25px;
+   width: 200px;
+   padding: 10px;
+   border: 10px;
 }
    /*end my experience*/
 /*begin css for airborne*/
