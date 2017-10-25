@@ -479,7 +479,7 @@ p {
 #airborne h1{
    font-family: "Georgia", Georgia, serif;
    font-size: 100px;
-   font-color: #8B0000; 
+   color: #8B0000; 
 }
 .myyears {
    font-style: italic;
@@ -488,7 +488,7 @@ p {
 /*end airborne*/
 /*soldier*/
 #soldier p {
-   color: forest green;
+   color: green;
 }
 /*end airborne*/
 
