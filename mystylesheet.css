@@ -448,8 +448,27 @@ template {
 }
 /*begin css for project 2*/
 header {
-   color: purple;
-   background: lightblue;
+   background: light blue;
+}
+nav ul li {
+   float: left;
+   margin: 0 100px
+}
+nav ul li a {
+   display: block;
+   background-color: black;
+   color: green;
+   font-weight: bold;
+   text-decoration: none;
+   text-align: center;
+   width: 100px;
+   padding: 10px 0px 8px 0px;
+   border-radius: 4px;
+}
+nav ul li a:hover {
+   background-color: blue;
+}
+/*end nav*/
 }
 /*myexperience*/
 #myexperience h1{
@@ -498,38 +517,7 @@ p {
    font-family: "fantasy", fantasy, serif;
    font-size: xlarge;
 }
-/*begin footer*/
-footer {
-   backgound: violet;
-   width: 1000px;
-   height:75px;
-}
-/*end footer/
-/*begin nav*/
-nav ul {
-   list-style-type: none;
-   padding: 0;
-   margin: 0;
-   overflow: hidden;   
-}
-nav ul li {
-   float: left;
-   margin: 0 100px
-}
-nav ul li a {
-   display: block;
-   background-color: black;
-   color: green;
-   font-weight: bold;
-   text-decoration: none;
-   text-align: center;
-   width: 100px;
-   padding: 10px 0px 8px 0px;
-   border-radius: 4px;
-}
-nav ul li a:hover {
-   background-color: blue;
-}
-/*end nav*/
+
+
 
 
