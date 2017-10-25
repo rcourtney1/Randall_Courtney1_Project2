@@ -475,10 +475,6 @@ nav ul li a:hover {
    background-color: blue;
 }
 /*end nav*/
-body {
-   width; 83.3333333%;
-   margin: 0 auto 53px;
-}
 /*myexperience*/
 #myexperience h1{
    color: #00BFFF;
@@ -498,7 +494,7 @@ h3 {
 }
 p {
    margin: 25px;
-   width: 200px;
+   width: 400px;
    padding: 10px;
    border: 10px;
 }
@@ -523,7 +519,7 @@ p {
 /*begin Hobbie and Interest*/
 
 #motorcycle h2{
-   font-family: "fantasy", fantasy, serif;
+   font-family: "fantasy", Georgia, serif;
    font-size: xlarge;
 }
 
