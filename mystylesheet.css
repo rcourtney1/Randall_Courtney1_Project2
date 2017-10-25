@@ -447,6 +447,9 @@ template {
   display: none;
 }
 /*begin css for project 2*/
+header {
+   background: orange;
+}
 nav ul {
    list-style-type: none;
    padding: 0;
