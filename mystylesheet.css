@@ -448,15 +448,15 @@ template {
 }
 /*begin css for project 2*/
 .page {
-   width: 960px;
-   margin: 0 auto;
+   width:  90%;
+   margin: 36px auto;
 }
 header {
    background: light blue;
 }
 nav ul li {
    float: left;
-   margin: 0 100px
+   margin: 0 100px;
 }
 nav ul li a {
    display: block;
@@ -475,7 +475,8 @@ nav ul li a:hover {
 /*end nav*/
 }
 body {
-   
+   width; 83.3333333;
+   margin: 0 auto 53px;
 }
 /*myexperience*/
 #myexperience h1{
