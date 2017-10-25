@@ -447,6 +447,10 @@ template {
   display: none;
 }
 /*begin css for project 2*/
+.page {
+   width: 960px;
+   margin: 0 auto;
+}
 header {
    background: light blue;
 }
@@ -469,6 +473,9 @@ nav ul li a:hover {
    background-color: blue;
 }
 /*end nav*/
+}
+body {
+   
 }
 /*myexperience*/
 #myexperience h1{
