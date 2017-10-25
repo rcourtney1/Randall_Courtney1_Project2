@@ -448,7 +448,7 @@ template {
 }
 /*begin css for project 2*/
 header {
-   background: light blue;
+   background: maroon;
 }
 nav ul {
    list-style-type: none;
@@ -520,7 +520,6 @@ p {
 
 #motorcycle h2{
    font-family: "fantasy", Georgia, serif;
-   font-size: xlarge;
 }
 
 
