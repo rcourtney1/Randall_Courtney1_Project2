@@ -457,7 +457,7 @@ nav ul {
    overflow: hidden;
 }
 nav ul li {
-   float: left;
+   float: center;
    margin: 0 100px;
 }
 nav ul li a {
