@@ -448,9 +448,12 @@ template {
 }
 /*begin css for project 2*/
 /*begin css for index*/
+.page {
+   width: 960px;
+   margin: 0 auto;   
+}
 body {
    background: lightblue;
-   width: 960px;
 }
 header {
    background: orange;
@@ -486,14 +489,8 @@ nav ul li a:hover {
    width: 900px;
    border: 0;
    padding: 0; 
-   margin: 100px; 
-}
-#me ul {
-  width:900px;
-  border: 0;
-  padding: 0;
-  margin: 120px;
-}
+   margin: 100px;
+/**end me**
 /*myexperience*/
 #myexperience h1{
    color: blue;
