@@ -447,6 +447,14 @@ template {
   display: none;
 }
 /*begin css for project 2*/
+.page 1 {
+   margin: 36pix auto;
+   width: 960px;
+}
+}
+body {
+   background: lightblue; 
+}
 header {
    background: orange;
 }
