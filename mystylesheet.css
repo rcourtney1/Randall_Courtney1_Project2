@@ -498,21 +498,21 @@ nav ul li a:hover {
 }
 #myexperience h2 {
    color: blue; 
-   width: 600px;
+   width: 700px;
    border: 10px;
    padding: 10px; 
    margin: 20px; 
 }
 #myexperience h3 {
     color: blue;
-    width: 500px;
+    width: 700px;
     border: 10px;
     padding: 10px;
     margin: 20px;
 }
 #myexperience p {
    margin: 25px;
-   width: 600px;
+   width: 700px;
    padding: 10px;
    border: 10px;
 }
