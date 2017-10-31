@@ -447,7 +447,6 @@ template {
   display: none;
 }
 /*begin css for project 2*/
-/*begin css for index*/
 body {
    background: lightblue;
 }
@@ -486,8 +485,9 @@ nav ul li a:hover {
    border: 0;
    padding: 0; 
    margin: 5%;
-/**end me**/
-/*myexperience*/
+}
+/*end me*/
+/*begin myexperience*/
 #myexperience h1{
    color: blue;
    font-weight: bold;
@@ -513,9 +513,7 @@ nav ul li a:hover {
    padding: 10px;
    border: 10px;
 }
-   /**end myexperience**/
-
-/*begin professionalexperience*/
+   /*end myexperience*/
 
 /*begin css for airborne*/
 #airborne h1{
