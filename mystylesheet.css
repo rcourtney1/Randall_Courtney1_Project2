@@ -483,6 +483,14 @@ nav ul li a:hover {
    background-color: blue;
 }
 /*end nav*/
+/*begin me*/
+#me h1{
+   color: violet;
+   width: 500px;
+   border: 10px;
+   padding: 10px; 
+   margin: 35px; 
+}
 /*myexperience*/
 #myexperience h1{
    color: blue;
