@@ -454,6 +454,7 @@ body {
 }
 header {
    background: orange;
+   width: 950px;
 }
 nav ul {
    list-style-type: none;
@@ -461,8 +462,7 @@ nav ul {
    margin: 0;
    overflow: hidden;
 }
-nav ul li {
-   float: right; 
+nav ul li { 
    display: inline-block;
     list-style-type: none;
 }
