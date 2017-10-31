@@ -453,6 +453,7 @@ body {
 header {
    background: orange;
 }
+/*begin nav*/
 nav ul {
    list-style-type: none;
    padding: 0;
@@ -477,7 +478,7 @@ nav ul li a {
 nav ul li a:hover {
    background-color: blue;
 }
-/*end nav*/
+/**end nav**/
 /*begin me*/
 #me h1{
    color: violet;
@@ -486,7 +487,7 @@ nav ul li a:hover {
    padding: 0; 
    margin: 5%;
 }
-/*end me*/
+/**end me**/
 /*begin myexperience*/
 #myexperience h1{
    color: blue;
@@ -513,7 +514,7 @@ nav ul li a:hover {
    padding: 10px;
    border: 10px;
 }
-   /*end myexperience*/
+   /**end myexperience**/
 
 /*begin css for airborne*/
 #airborne h1{
@@ -533,15 +534,11 @@ nav ul li a:hover {
 /**end soldier**/
 
 /*begin Hobbie and Interest*/
-
+/*begin motorcycle*/
 #motorcycle h2{
    font-family: "Times New Roman", Georgia, serif;
 }
-# img1{
-width: 25%;
-height: 25%;
-margin: 5%; 
-}
+/**end motorcycle**/
 /**end Hobbie and Interest**/
 
 
