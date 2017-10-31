@@ -447,7 +447,6 @@ template {
   display: none;
 }
 /*begin css for project 2*/
-/*begin css for index*/
 page {
    margin: 36px auto;
    width: 960px; 
@@ -510,7 +509,10 @@ nav ul li a:hover {
    padding: 10px;
    border: 10px;
 }
-   /**end my experience**/
+   /**end myexperience**/
+
+/*begin my
+
 /*begin css for airborne*/
 #airborne h1{
    font-family: "Georgia", Georgia, serif;
