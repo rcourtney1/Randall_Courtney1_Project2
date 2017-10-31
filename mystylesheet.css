@@ -486,22 +486,25 @@ nav ul li a:hover {
 /*end nav*/
 /*myexperience*/
 #myexperience h1{
-   color: #00BFFF;
+   color: blue;
    font-weight: bold;
+   margin: 30px;
 }
-h2 {
+#myexperience h2 {
+   color: blue; 
    width: 600px;
    border: 10px;
    padding: 10px; 
-   margin: 10px; 
+   margin: 20px; 
 }
-h3 {
+#myexperience h3 {
+    color: blue;
     width: 500px;
     border: 10px;
     padding: 10px;
-    margin: 10px;
+    margin: 20px;
 }
-p {
+#myexperience p {
    margin: 25px;
    width: 600px;
    padding: 10px;
