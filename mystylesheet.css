@@ -447,14 +447,17 @@ template {
   display: none;
 }
 /*begin css for project 2*/
+/*begin css for index*/
+page {
+   margin: 36px auto;
+   width: 960px; 
+}
 body {
    background: lightblue; 
-   margin: 36pix auto;
-   width: 960px;
 }
 header {
    background: orange;
-   width: 950px;
+   width: 960px;
 }
 nav ul {
    list-style-type: none;
