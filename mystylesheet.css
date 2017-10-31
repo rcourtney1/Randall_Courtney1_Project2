@@ -486,19 +486,16 @@ nav ul li a:hover {
 /*begin me*/
 #me h1{
    color: violet;
-   width: 500px;
-   border: 0px;
-   padding: 0px; 
-   margin: 35%; 
+   width: 900px;
+   border: 0;
+   padding: 0; 
+   margin: 100px; 
 }
 #me ul {
-   list-style-type: none;
-   padding: 0;
-   margin: 40px;   
-}
-#me ul li {
-   display: inline-block;
-   list-style-type: none;
+  width:900px;
+  border: 0;
+  padding: 0;
+  margin: 120px;
 }
 /*myexperience*/
 #myexperience h1{
