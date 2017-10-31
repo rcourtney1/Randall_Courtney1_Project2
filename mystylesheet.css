@@ -447,12 +447,10 @@ template {
   display: none;
 }
 /*begin css for project 2*/
-page {
-   margin: 36pix auto;
-   width: 960px;
-}
 body {
    background: lightblue; 
+   margin: 36pix auto;
+   width: 960px;
 }
 header {
    background: orange;
