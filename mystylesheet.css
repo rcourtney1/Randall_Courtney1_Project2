@@ -487,6 +487,14 @@ nav ul li a:hover {
    padding: 0; 
    margin: 5%;
 }
+#me p{
+   p {
+   margin: 25px;
+   width: 1000px;
+   padding: 10px;
+   border: 10px;
+}
+}
 /**end me**/
 /*begin myexperience*/
 #myexperience h1{
