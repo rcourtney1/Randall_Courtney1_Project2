@@ -457,7 +457,7 @@ nav ul {
    overflow: hidden;
 }
 nav ul li {
-   float: center; 
+   float: right; 
    display: inline-block;
     list-style-type: none;
 }
@@ -499,7 +499,7 @@ p {
    padding: 10px;
    border: 10px;
 }
-   /*end my experience*/
+   /**end my experience**/
 /*begin css for airborne*/
 #airborne h1{
    font-family: "Georgia", Georgia, serif;
@@ -510,12 +510,12 @@ p {
    font-style: italic;
    color: maroon;
 }
-/*end airborne*/
+/**end airborne**/
 /*soldier*/
 #soldier p {
    color: green;
 }
-/*end airborne*/
+/**end soldier**/
 
 /*begin Hobbie and Interest*/
 
@@ -527,7 +527,7 @@ width: 25%;
 height: 25%;
 margin: 5%; 
 }
-
+/**end Hobbie and Interest**/
 
 
 
