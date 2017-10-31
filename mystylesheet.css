@@ -449,7 +449,8 @@ template {
 /*begin css for project 2*/
 /*begin css for index*/
 body {
-   background: lightblue; 
+   background: lightblue;
+   width: 960px;
 }
 header {
    background: orange;
