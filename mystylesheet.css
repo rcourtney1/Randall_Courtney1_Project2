@@ -447,7 +447,7 @@ template {
   display: none;
 }
 /*begin css for project 2*/
-page 1 {
+page {
    margin: 36pix auto;
    width: 960px;
 }
@@ -529,7 +529,7 @@ p {
 #motorcycle h2{
    font-family: "Times New Roman", Georgia, serif;
 }
-.img1{
+# img1{
 width: 25%;
 height: 25%;
 margin: 5%; 
