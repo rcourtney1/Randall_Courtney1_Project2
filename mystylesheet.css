@@ -598,6 +598,10 @@ nav ul li a:hover {
 /**end soldier**/
 
 /*begin Hobbie and Interest*/
+h1 {
+   margin:25%; 
+   width: 400px;
+}
 /*begin motorcycle*/
 #motorcycle h2{
    font-family: "Times New Roman", Georgia, serif;
