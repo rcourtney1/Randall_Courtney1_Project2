@@ -578,15 +578,15 @@ nav ul li a:hover {
    margin: 35px;
 }
 .york {
-   width: 25%; 
+   float: left; 
+   width: 25%;
    height: auto;
-   float: left;
    margin: 3%;
 }
 .patch {
+   float: right;
    width: 35%;
    height: auto;
-   float: right;
    margin: 3%;
 }
 /**end airborne**/
