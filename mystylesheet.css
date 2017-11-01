@@ -452,8 +452,7 @@ body {
 }
 header {
    background: orange;
-}
-/*begin nav*/
+}/*begin nav*/
 nav ul {
    list-style-type: none;
    padding: 0;
@@ -487,7 +486,7 @@ nav ul li a:hover {
    padding: 0; 
    margin: 5%;
 }
-#me .phoneandemail p {
+#me .phoneandemail {
    margin: 5%;
    width: 1400px;
    padding: 10px;
