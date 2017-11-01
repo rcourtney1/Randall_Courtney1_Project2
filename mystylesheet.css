@@ -577,13 +577,13 @@ nav ul li a:hover {
    color: maroon;
    margin: 35px;
 }
-.york img {
+#airborne .york img {
    width: 25%; 
    height: auto;
    float: left;
    margin: 3%;
 }
-.patch img {
+#airborne .patch img {
    width: 35%;
    height: auto;
    float: right;
