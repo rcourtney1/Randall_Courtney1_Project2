@@ -579,7 +579,8 @@ nav ul li a:hover {
 }
 .york img {
    width: 25%; 
-   height: auto;
+   height: 50%;
+   float: left; 
 }
 /**end airborne**/
 /*soldier*/
