@@ -488,9 +488,9 @@ nav ul li a:hover {
 }
 .phoneandemail p {
    margin: 5%;
-   width: 1400px;
-   padding: 10px;
-   border: 10px;
+   width: 150px;
+   padding: 0;
+   border: 0;
 }
 /**end me**/
 /*begin myexperience*/
@@ -520,6 +520,7 @@ nav ul li a:hover {
    border: 10px;
 }
    /**end myexperience**/
+
 
 /*begin css for airborne*/
 #airborne h1{
