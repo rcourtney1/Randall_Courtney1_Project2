@@ -542,6 +542,21 @@ nav ul li a:hover {
    border: 10px;
 }
 /**end professional experience**/
+/*begin management*/
+#management h2 {
+   color: RebeccaPurple; 
+   width: 900px;
+   border: 10px;
+   padding: 10px; 
+   margin: 40px; 
+}
+#management p {
+   margin: 35px;
+   width: 700px;
+   padding: 10px;
+   border: 10px;
+}
+/*end management*/
 /*begin css for airborne*/
 #airborne h1{
    font-family: "Georgia", Georgia, serif;
