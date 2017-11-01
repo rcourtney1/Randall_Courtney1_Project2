@@ -605,6 +605,16 @@ h1 {
 /*begin motorcycle*/
 #motorcycle h2{
    font-family: "Times New Roman", Georgia, serif;
+   margin: 25%; 
+}
+.sporty {
+   float: left;
+   width: 15%;
+   height: 15%;
+   margin: 3%;
+}
+.ultra {
+   float: right;
 }
 /**end motorcycle**/
 /**end Hobbie and Interest**/
