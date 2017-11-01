@@ -520,7 +520,7 @@ nav ul li a:hover {
    border: 10px;
 }
    /**end myexperience**/
-/*professionalexperience*/
+/*begin professionalexperience*/
 #professionalexperience h2 {
    color: darkgoldenrod; 
    width: 800px;
@@ -541,7 +541,7 @@ nav ul li a:hover {
    padding: 10px;
    border: 10px;
 }
-/**end professional experience**/
+/**end professionalexperience**/
 /*begin management*/
 #management h2 {
    color: RebeccaPurple; 
