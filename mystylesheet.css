@@ -579,8 +579,15 @@ nav ul li a:hover {
 }
 .york img {
    width: 25%; 
-   height: 50%;
-   float: left; 
+   height: auto;
+   float: left;
+   margin: 3%;
+}
+.patch img {
+   width: 35%;
+   height: auto;
+   float: right;
+   margin: 3%
 }
 /**end airborne**/
 /*soldier*/
