@@ -575,6 +575,11 @@ nav ul li a:hover {
 .myyears {
    font-style: italic;
    color: maroon;
+   margin: 35px;
+}
+.york img {
+   width: 25%; 
+   height: auto;
 }
 /**end airborne**/
 /*soldier*/
