@@ -572,10 +572,11 @@ nav ul li a:hover {
    font-size: 100px;
    color: #8B0000; 
 }
-.myyears {
+.myyears p {
    font-style: italic;
    color: maroon;
-   margin: 35px;
+   postion: static; 
+   border: 3px solid #73AD21;
 }
 .york {
    float: left; 
