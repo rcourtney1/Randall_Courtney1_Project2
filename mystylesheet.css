@@ -552,7 +552,7 @@ nav ul li a:hover {
 }
 #management p {
    margin: 35px;
-   width: 2000px;
+   width: 50%;
    padding: 10px;
    border: 10px;
 }
