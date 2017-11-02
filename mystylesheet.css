@@ -501,6 +501,8 @@ nav ul li a:hover {
    font-weight: bold;
    margin: 30%;
    width: 1400px;
+   margin-top: 1%;
+   margin-bottom: 1%;
 }
 #myexperience h2 {
    color: blue; 
