@@ -576,11 +576,15 @@ nav ul li a:hover {
    font-family: "Georgia", Georgia, serif;
    font-size: 100px;
    color: #8B0000; 
+   margin: 25%;
+   margin-top: 1%;
+   margin-bottom: 1%;
+   width: 1400px;
 }
 .myyears p {
    font-style: italic;
    color: maroon;
-   postion: static; 
+   margin: 25%; 
    border: 3px solid #73AD21;
 }
 .york {
@@ -591,7 +595,7 @@ nav ul li a:hover {
 }
 .patch {
    float: right;
-   width: 35%;
+   width: 20%;
    height: auto;
    margin: 3%;
 }
