@@ -653,11 +653,12 @@ nav ul li a:hover {
 .ultra {
    float: right;
    margin: 3%;
+   margin-top: 2%
 }
 .vets {
-   margin: 20%;
+   margin: 22%;
    width: 35%;
-   margin-top: 4%;
+   margin-top: 2%;
 }
 /**end motorcycle**/
 /**end Hobbie and Interest**/
