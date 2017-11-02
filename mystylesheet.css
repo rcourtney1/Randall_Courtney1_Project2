@@ -492,7 +492,9 @@ nav ul li a:hover {
    margin: 5%;
    width: 150px;
    padding: 0;
-   border: 0;
+   border: 4px solid #B22222;
+   margin-top: 30%;
+   margin-bottom: 4%;
 }
 /**end me**/
 /*begin myexperience*/
@@ -585,9 +587,6 @@ nav ul li a:hover {
    width: 20%;
    height: auto;
    margin: 1%;
-}
-.clearfix {
-   overflow: auto;
 }
 .patch {
    float: right;
