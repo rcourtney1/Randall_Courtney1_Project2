@@ -602,7 +602,13 @@ nav ul li a:hover {
 }
 /**end airborne**/
 /*soldier*/
-#soldier p {
+#soldier h2 {
+   margin: 25%;
+   width: 1400px;
+   margin-top: 30%;
+   margin-bottom: 5%;
+}
+ p {
    color: green;
 }
 /**end soldier**/
