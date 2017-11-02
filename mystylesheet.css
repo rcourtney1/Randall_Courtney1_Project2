@@ -670,13 +670,16 @@ nav ul li a:hover {
 }
 #history p {
    width: 1710px;
+   margin: 10%;
 }
 .kiss {
    margin: 7%;
-   width: 20%;   
+   width: 20%;
+   float: left;
 }
 .wethepeople {
    margin: 7%;
    width: 20%;
+   float: right;
 }
 /*end history*/
