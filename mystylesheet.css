@@ -485,6 +485,8 @@ nav ul li a:hover {
    border: 0;
    padding: 0; 
    margin: 5%;
+   margin-top: 30%;
+   margin-bottom: 5%
 }
 .phoneandemail p {
    margin: 5%;
