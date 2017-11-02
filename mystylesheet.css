@@ -484,17 +484,16 @@ nav ul li a:hover {
    width: 1400px;
    border: 0;
    padding: 0; 
-   margin: 5%;
-   margin-top: 2%;
-   margin-bottom: 5%
+   margin: 30%;
+   margin-top: 4%;
+   margin-bottom: 1%;
 }
 .phoneandemail p {
-   margin: 5%;
    width: 150px;
    padding: 0;
-   border: 4px solid #B22222;
-   margin-top: 30%;
-   margin-bottom: 4%;
+   margin: 35%;
+   margin-top: 1%;
+   margin-bottom: 1%;
 }
 /**end me**/
 /*begin myexperience*/
