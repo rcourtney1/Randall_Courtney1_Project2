@@ -635,7 +635,11 @@ h1 {
 /*begin motorcycle*/
 #motorcycle h2{
    font-family: "Times New Roman", Georgia, serif;
-   margin: 25%; 
+   font-size:  75px;
+   margin: 35%;
+   margin-top: 5%;
+   margin-bottom: 5%;
+   width: 1400px;
 }
 .sporty {
    float: left;
@@ -645,6 +649,7 @@ h1 {
 }
 .ultra {
    float: right;
+   margin: 3%;
 }
 /**end motorcycle**/
 /**end Hobbie and Interest**/
