@@ -584,12 +584,16 @@ nav ul li a:hover {
    height: auto;
    margin: 1%;
 }
+.clearfix {
+   overflow: auto;
+}
 .patch {
    float: right;
    width: 35%;
    height: auto;
    margin: 3%;
 }
+
 /**end airborne**/
 /*soldier*/
 #soldier p {
