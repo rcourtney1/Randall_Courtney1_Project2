@@ -635,9 +635,12 @@ nav ul li a:hover {
 }
 /*end interest*/
 /*begin motorcycles*/
-#motorcycle h2 {
+#motorcycles h2 {
    font-family: "Times New Roman", Georgia, serif; 
    margin: 10%;
+}
+#motorcycles p {
+   width: 800px;
 }
 .sporty {
    float: left;
