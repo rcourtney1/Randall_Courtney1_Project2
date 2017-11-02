@@ -490,7 +490,6 @@ nav ul li a:hover {
 }
 .phoneandemail p {
    width: 150px;
-   padding: 0;
    margin: 35%;
    margin-top: 1%;
    margin-bottom: 1%;
@@ -501,6 +500,7 @@ nav ul li a:hover {
    color: blue;
    font-weight: bold;
    margin: 30%;
+   width: 1400px;
 }
 #myexperience h2 {
    color: blue; 
