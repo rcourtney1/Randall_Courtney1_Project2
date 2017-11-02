@@ -631,16 +631,17 @@ nav ul li a:hover {
    margin: 35%;
    margin-top: 5%;
    margin-bottom: 5%; 
-   width: 1400px;
+   width: 1800px;
 }
 /*end interests*/
 /*begin motorcycles*/
 #motorcycles h2 {
    font-family: "Times New Roman", Georgia, serif; 
    margin: 10%;
+   margin-bottom: 5%;
 }
 #motorcycles p {
-   width: 800px;
+   width: 1200px;
 }
 .sporty {
    float: left;
