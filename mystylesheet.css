@@ -626,13 +626,15 @@ nav ul li a:hover {
    margin: 4%;
 }
 /**end soldier**/
-/*begin Hobbie and Interest*/
+/*begin interest*/
 #interest h1 {
    margin: 35%;
-   width: 1200px;
    margin-top: 5%;
-   margin-bottom: 5%;   
+   margin-bottom: 5%; 
+   width: 1400px;
 }
+/*end interest*/
+/*begin motorcycles*/
 #motorcycle h2 {
    font-family: "Times New Roman", Georgia, serif; 
    margin: 10%;
