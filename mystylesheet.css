@@ -628,17 +628,18 @@ nav ul li a:hover {
 /**end soldier**/
 /*begin interests*/
 #interests h1 {
-   margin: 45%;
+   margin: 42%;
    margin-top: 5%;
-   margin-bottom: 5%; 
+   margin-bottom: 3%; 
    width: 1800px;
 }
 /*end interests*/
 /*begin motorcycles*/
 #motorcycles h2 {
    font-family: "Times New Roman", Georgia, serif; 
-   margin: 45%;
+   margin: 42%;
    margin-bottom: 5%;
+   margin-top: 5%;
 }
 #motorcycles p {
    width: 1200px;
